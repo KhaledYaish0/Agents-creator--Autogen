@@ -17,7 +17,7 @@ The goal is to simulate an ecosystem of self-replicating AI agents — education
 ---
 
 ## Project Nature
-Inspired by *AutoGen’s Day 5: Creating Autonomous Agents*, the project is designed to be:
+Creating Autonomous Agents, the project is designed to be:
 - **Educational** – demonstrates distributed agent runtimes and autonomous code generation.  
 - **Entertaining** – every run creates different personalities and ideas.  
 - **Edgy** – unpredictable outcomes by design.  
